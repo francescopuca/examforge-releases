@@ -1,0 +1,9 @@
+{
+  "id": "examforge",
+  "name": "ExamForge Free Beta",
+  "version": "0.1.2",
+  "minAppVersion": "1.7.2",
+  "description": "Free during the Beta. Turn notes into source-linked study sessions and exam simulations using your own AI API key.",
+  "author": "Francesco Puca",
+  "isDesktopOnly": false
+}

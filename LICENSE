@@ -1,0 +1,101 @@
+ExamForge Proprietary Free Beta License
+Version 1.0
+
+© 2026 Francesco Puca. All rights reserved.
+
+1. Scope and ownership
+
+This license applies to ExamForge 0.1.2 Free Beta, including its program code,
+styles, and accompanying documentation (the "Software"). "Licensor" means
+the copyright holder identified above. The Software is proprietary. Ownership
+and all intellectual property rights remain with the Licensor. No open-source
+license or entitlement to receive the private source code is granted.
+
+2. Free Beta permission
+
+Subject to this license, you receive a non-exclusive, non-transferable,
+non-sublicensable, royalty-free permission to download official copies of the
+Software, install it as an Obsidian plugin, and use it for your own lawful
+purposes during the Beta period. You may make the copies reasonably necessary
+for your own installation and backup. These copies must retain this license
+and all copyright and attribution notices.
+
+No ExamForge payment, account, license key, or activation is required during
+the Free Beta. AI features require your own supported provider API key.
+Provider charges and terms remain your responsibility; no AI credits or API
+keys are supplied by the Licensor.
+
+3. Reserved rights and restrictions
+
+Except for the permissions above, the limited exceptions in section 4, or
+rights that cannot be excluded by applicable law, you must not:
+
+- redistribute, share, mirror, or publish copies of the Software;
+- sell, resell, rent, sublicense, or otherwise supply the Software to others;
+- modify and distribute the Software, publish forks, or distribute derivative
+  versions;
+- extract, copy, or reuse its code in another product or service; or
+- remove or alter copyright, license, proprietary, or attribution notices.
+
+Permission for these activities requires the Licensor's prior written
+authorization. Public availability of a download does not itself grant such
+permission under this license.
+
+4. Official distribution, review, and independent rights
+
+The Licensor may authorize GitHub and Obsidian to host, cache, and deliver
+official release files and to perform the operations needed for plugin
+installation and updates. This exception does not authorize an end user to
+operate a competing distribution, mirror, or resale service.
+
+Obsidian and its authorized review infrastructure may access the private source
+repository as authorized by the Licensor, in read-only mode, and inspect,
+build, and test the Software solely for directory review, security review,
+and verification that released assets match their source. This permission
+does not authorize publication of private source code or its reuse in other
+products.
+
+This license does not override independent rights arising under applicable
+GitHub Terms of Service for content posted publicly, including viewing and
+forking a public repository within GitHub's service. It grants no additional
+right to redistribute, resell, or reuse the Software beyond those independent
+rights. The private source repository is not made public by this provision.
+
+5. Beta period and future versions
+
+This release is free during the Beta period. The Licensor may end that period
+on a prospective date announced through official distribution channels with
+reasonable prior notice. Use after that date requires an applicable permission
+from the Licensor. The Licensor may offer future versions under different
+terms, including paid terms. No future price is fixed by this license, and no
+automatic payment obligation or subscription is created. Lawful use already
+completed during the Beta is not retroactively made chargeable.
+
+6. Your data and third-party materials
+
+Your notes, answers, and other study data are not part of the Software. This
+license grants the Licensor no rights over those materials. Any separately
+identified third-party component remains subject to its own applicable license;
+this license does not replace or restrict rights granted by that component's
+copyright holder. Obsidian is a separate product and is not licensed here.
+
+7. Beta condition and liability
+
+To the extent permitted by applicable law, the Software is supplied "as is"
+and "as available", without warranties of merchantability, fitness for a
+particular purpose, non-infringement, accuracy, or uninterrupted operation.
+AI-generated material and feedback may contain errors and are advisory.
+To that same extent, the Licensor is not liable for losses arising from use
+or inability to use the Software, including loss of data or profits. Nothing
+in this license excludes liability or consumer rights that cannot lawfully
+be excluded.
+
+8. Breach and rights required by law
+
+If you materially breach this license, the Licensor may terminate the
+permissions it grants to you. Upon termination you must cease use and remove
+copies no longer authorized, without deleting your own notes or study data.
+Nothing here restricts mandatory rights under applicable law, including
+non-excludable rights concerning backup, observation, testing, or interoperability.
+
+All rights not expressly granted remain reserved.
