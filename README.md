@@ -1,3 +1,4 @@
+
 # ExamForge Free Beta
 
 ExamForge turns your Obsidian notes into source-linked study material and exam practice. Questions, answers, sessions, history, and statistics remain in your local Obsidian vault.
@@ -99,5 +100,6 @@ Read [PRIVACY.md](PRIVACY.md) for the complete data boundary.
 
 ## Release
 
-Version: **0.1.2 Free Beta**  
+Version: **0.1.3 Free Beta**
+
 Minimum Obsidian version: **1.7.2**
