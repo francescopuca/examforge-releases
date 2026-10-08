@@ -4,7 +4,7 @@ ExamForge is installed inside your Obsidian vault. It is currently free during t
 
 ## Step-by-step installation
 
-1. Download `ExamForge-0.1.2-free-beta.zip`.
+1. Download `ExamForge-0.1.3-free-beta.zip`.
 2. Extract the ZIP. You will see a folder named `examforge`.
 3. Find your Obsidian vault folder. This is the folder that contains your notes.
 4. Inside the vault, open the hidden folder `.obsidian`, then open `plugins`.
